@@ -13,4 +13,3 @@ $persegiPanjang->luas();
 $persegiPanjangHelper = new \Helper\PersegiPanjang();
 // echo $persegiPanjangHelper->info();
 
-echo "Selamat Datang";
