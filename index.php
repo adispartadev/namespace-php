@@ -12,3 +12,5 @@ $persegiPanjang->luas();
 // // // create helper objects
 $persegiPanjangHelper = new \Helper\PersegiPanjang();
 // echo $persegiPanjangHelper->info();
+
+echo "Selamat Datang";
